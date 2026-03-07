@@ -250,7 +250,7 @@ tutto questo lo si fa tramite 3 tipo tipologie di stili
 + Medio 
 + Alto
 == Lingua di Cicerone
-Sommo oratore, curava l'arte del dire, lo può fare perché ha una vasta cultura (vedi De Oratore). Eloquenza come attitudini naturali e profonda cultura. Duqnue i llinguaggio e tecnico e calore: il linguaggio ha misura, tecnica ed elasticità. Distinzione tra lingua filosofica (orazioni) ed epistolario
+Sommo oratore, curava l'arte del dire, lo può fare perché ha una vasta cultura (vedi De Oratore). Eloquenza come attitudini naturali e profonda cultura. Dunque i linguaggio e tecnico e calore: il linguaggio ha misura, tecnica ed elasticità. Distinzione tra lingua filosofica (orazioni) ed epistolario
 
 Nella lingua filosofica
 Problemi con tradurre i termini greci specifici, quindi crea immagini, termini greci o calchi.
