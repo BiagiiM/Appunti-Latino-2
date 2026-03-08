@@ -226,7 +226,7 @@ Humanitas
 === De oratore
 55a. C. Dialogo fra (Crasso che interpreta Cicerone) e Antonio
 
-Antonio: "l'oratore deve avere doti naturali, dimistrichezza, conoscenza del posto e cultura dell'oratorazione"
+Antonio: "l'oratore deve avere doti naturali, dimestichezza, conoscenza del posto e cultura dell'oratorazione"
 
 Crasso:"Non ci deve solo essere la cultura della orazione romana ma anche dell'arricchimento progressiva, devi pure avere la probitas e la prudentia"
 
@@ -258,3 +258,5 @@ Problemi con tradurre i termini greci specifici, quindi crea immagini, termini g
 Nella lingua dell'epistolario. Arcaismi evitato, linguaggio caratterizzato da diminutivi, termini composti, linguaggio completamente diverso.
 
 La lingua che Cicerone ha elaborato ha una strutta lunga ed armoniosa. Un discorso che elabora per calarlo nella diversa tipologia di opere che compone: da un lato le orazione, dall'altro i trattati e poi l'epistolario
+
+#pagebreak()
