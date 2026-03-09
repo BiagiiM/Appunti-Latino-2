@@ -46,4 +46,10 @@ Ottaviano da _princeps_ ha fatto varie riforme per Roma, tra cui
   - La prefettura dei vigili
   - La prefettura dell'Egitto
   - La prefettura dell'Annona
-  Fra queste quella più difficile da gestire era proprio quella del Pretorio, che erano proprio una guardia ufficiale dell'imperatore. I pretoriani sono 9 coorti comandate dal prefetto del pretorio che avevo proprio l'ordine di proteggere l'imperatore.
+  Fra queste quella più difficile da gestire era proprio quella del Pretorio, che erano proprio una guardia ufficiale dell'imperatore. I pretoriani sono 9 coorti comandate dal prefetto del pretorio che avevo proprio l'ordine di proteggere l'imperatore. Queste 4 prefetture hanno creato una complessa macchina burocratica che garantisce un ottimo funzionamento dell'impero ed in questo modo ha accentrato tutti i poteri del senato. 
+
+  Augusto prosegue poi con una serie di conquiste:
+  - Zona del Reno (Germania - Svizzera)
+  - Zona del Danubia (Ungheria e Romania)
+  - Zona dell'Eufrate (fra Türkiye ("nuovo" nome della Turchia), Siria e Iraq)
+  
