@@ -9,7 +9,7 @@
 #outline()
 #pagebreak()
 
-= Sallustio
+
 #include "Argomenti/Sallustio.typ"
 #include "Argomenti/Cicerone.typ"
 #include "Argomenti/Età Augustea.typ"
