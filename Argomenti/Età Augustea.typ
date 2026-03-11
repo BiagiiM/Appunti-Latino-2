@@ -1,6 +1,12 @@
 = Età Augustea
 L'età Augustea va dal 44a.C. (morte di Cesare) fino al 14d.C. (morte di Augusto). Anche se come ogni tentativo di periodizzare la storia, questa periodizzazione è imprecisa in quanto Ottaviano si è fatto chiamare _Augustus_ solo 27a.C. e perché all'inizio il potere di Augusto non era assoluto, anzi, non si sapeva nemmeno se avrebbe prevalso su quello di Antonio.
 
+L'età Augustea si può dividere in 3 fasi 
+
++ *44-31 a.C.*: guerre civili, spargimento di sangue, grande crisi: roba brutta, non consiglio 0 stelle su 10.
++ *31-12 a.C.*: fase delle riforme e della cosiddetta pace sociale, testimoniata dalla struttura dell'_ara pacis_. L'arcobaleno dopo la tempesta, la calma 
++ *12a.C. - 14d.C.*: il ritorno delle lotte civili all'interno della famiglia di Augusto che finiranno solo dopo la morte dell'imperatore stesso! 
+
 == Inizio della Guerra Civile
 Dopo la morte di Cesare la plebe è ostile verso Bruto e Cassio (che l'hanno ucciso) ed appoggia Antonio (un fedelissimo di Cesare, il suo bff). Quest'ultimo però spinto da opportunismo ed avidità si fa consegnare il testamento di Cesare dove però compare un altro nome:  Ottavio, che poi prenderà il nome di Ottaviano, figlio adottivo di Cesare. Ottaviano riesce ad ottenere tramite alla sua grande abilità di avere la fiducia del senato.
 
@@ -38,7 +44,7 @@ Secondo Tacito la strategia di Ottaviano è stata questo: affermare il principat
 
 Speziamo una lancia in favore di Ottaviano: finché c'era lui al potere, una giusta persona, illuminata, poteva anche andare bene ma se al potere ci sta uno scoppiato come Caligola, lì la situazione inizia a degenerare...
 
-== Come Ottaviano riorganizza lo stato
+== Ottaviano ottiene potere 
 Ottaviano da _princeps_ ha fatto varie riforme per Roma, tra cui
 + Dividere l'impero fra province senatorie ed imperiali: Le province senatorie sono quelle più pacifiche, sotto il controllo di Roma già da molto; quelle imperiali sono quelle più contese, appena conquistate e dunque ancora instabili.
 +   Introdurre 4 nuove magistrature:
@@ -50,6 +56,43 @@ Ottaviano da _princeps_ ha fatto varie riforme per Roma, tra cui
 
   Augusto prosegue poi con una serie di conquiste:
   - Zona del Reno (Germania - Svizzera)
-  - Zona del Danubia (Ungheria e Romania)
+  - Zona del Danubio (Ungheria e Romania)
   - Zona dell'Eufrate (fra Türkiye ("nuovo" nome della Turchia), Siria e Iraq)
   
+  == Ottaviano al potere
+
+  === Avere il potere tramite il Mos Maiorum
+  A questo punto Ottaviano, una volta che ha ottenuto tutto il potere, voleva fasi amare dal popolo, e quale migliore maniera se non colpire il dente nostalgico delle persone? #footnote("la politica italiana attuale ne sa qualcosa"). Ottaviano ha quindi deciso di fare appello a quello che era il _mos maiorum_ #footnote("Vi prego dovete sapere cosa sia, leggetevi la parte di Nevio dei vecchi appunti non lo spiegherò per la millesima volta"), in particolare 
+  - Il recupero dei _mores antiqui_, ovvero seguire gli insegnamenti di Catone
+  - Ritorno alla coltivazione di terra (anche qui vediamo tanto catone), difatti Roma sulla coltivazione si è fondata, quale altra attività senza tempo altrimenti?
+  - Ripristino dei valori della famiglia#footnote("Sempre la famiglia tradizionale con la destra di prima... No ok dai, almeno per l'età Augustea setto di fare riferimenti alla destra attuale che poi Augusto si arrabbia con me per averlo paragonarlo a tali persone")
+  Ma come fa a promulgare queste idee "conservatrici?" tramite queste riforme:
+  - _Lex Iulia de adulteriis coercendis_ (18-16 a.C.)che rende l'adulterio un delitto la cui pena è la _relegatio_ (una forma lieve di Esilio dove bisogna abbandonare Roma (piccolo spoiler ma poi anche Ovidio la subirà))
+  -_Lex Iulia de maritandis ordinibus_ (18a.C.) che rende il matrimonio obbligatorio dopo anni di frequentazione.
+  -_Lex Papia Pappaea_ (8a.C.) incentivi economici per chi si sposa e per fare  figli.
+
+  In questo periodo viene anche creato il mito della fondazione di Roma apposta per innalzare il governo di Augusto e "validarlo" tramite il mito. Questo lo vedremo meglio nella parte dell'Eneide di Virgilio.
+
+=== Avere il potere tramite l'architettura
+
+Ottaviano per rendere felice il popolo fa anche una serie di vari modernizzazioni e sviluppi architettonici: tra cui
+- Gli acquedotti
+- Il _Campo Marzio_, con il Pantheon dedicato a tutte le divinità ed il campidoglio.
+- Trasforma una serie di templi con cui si fa onorare alla maniera greca 
+- Fa il complesso monumentale del foro augusto
+- Il mausoleo, la tomba di famiglia 
+- L'_Ara pacis_ che celebra il suo programma politica e la sua _pax_, come se volesse rendere concreta, visibile e lodabile questa sua _pax_.
+- il teatro di Marcello e l'arco trionfale 
+- il tempio del Divo Giulio in onore di Giulio Cesare
+Inoltre ha diviso le regioni fra _vici_ e _pagi_
+== Il Circolo di Mecenate
+
+=== Cos'è e com'è nato
+Augusto ha usato la cultura come mezzo per farsi pubblicità. Arrivano a Roma vari maestri di origine greca e Ottaviano con il loro arrivo fonda librerie pubbliche.
+
+Mecenate, amico di Augusto, sempre della classe equestre, per diffondere la cultura fa nascere questo circolo di letterati che poi prenderà il nome di _"Circolo di Mecenate"_. Mecenate è stato quindi il primo ad investire nella cultura, il primo _primo ministro_ dell'istruzione#footnote("e del merito ovviamente, chi mai dubiterebbe del merito dell'onorevole Valditara... non so per quanto ancora riesco a contenere le risate"). 
+
+Mecenate si circonda di persone di altissimo livello tra cui: Virgilio, Orazio, Livio lo Storico, Cornelio gallio, Properzio e Tibullo. Tutti questi letterati vedevano in Augusto la luce della speranza (Anche se ovviamente continuano ad esserci contraddizioni nel suo governo (come ce n'erano con Enea che ha fondato Roma senza potersi sottrarre alle guerre)).
+
+Mecenate celebra il mito della fondazione di Roma attraverso la creazione di una letteratura nazionale. Vari poeti iniziano a raccontare dell'origini di Roma per avere ricompense: per esempio Ovidio che ottiene la tenuta in Sabina.
+

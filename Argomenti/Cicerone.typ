@@ -4,7 +4,7 @@
 Preparatevi perché questo tizio ha fatto di tutto
 
 == La vita <Vita_Cicerone>
-- Cicerone nasce nel 106 a.C. ad Arpino (non c'entra nulla ma il sindaco di Arpino è Sgarbi)) (e muore il 7 Dicembre 43 a.C.).
+- Cicerone nasce nel 106 a.C. ad Arpino #footnote("non c'entra nulla ma il sindaco di Arpino è Sgarbi") (e muore il 7 Dicembre 43 a.C. a Formia#footnote("Città particolarmente nota a me ed i miei compagni di classe perché città Natale di Vitruvio e della nostra professoressa di matematica")).
 
 - I suoi maestri sono: 
     - in Diritto - I due Scevola e Crasso 
