@@ -121,7 +121,7 @@ Nel periodo 46-45 Scrive 3 orazioni _Cesariane_, ovvero a favore di Cesare, ques
 Le sue ultimissime orazioni sono nel 44, dopo la morte di Cesare, durante la guerra civile fra Antonio ed Ottaviano (vd. @Vita_Cicerone), in queste orazioni 14 orazioni Cicerone va contro Antonio proprio come Demostene va contro Filippo (da qui il nome).
 In queste orazioni Ottaviano è il _princeps illuminato_ mentre Antonio è il _tirannus_.
 
-== Opere Filosofiche 
+== Opere Filosofiche - Politiche
 === Le fonti di Cicerone
 Secondo Cicerone è lo scopo della filosofia è quello di tramandare i valori romani facendo una _summa_, ovvero una sintesi delle varie dottrine considerando solo le cose più importanti e migliori di ognuna.
 
@@ -179,16 +179,16 @@ Grazie ad autori contemporanei e successivi a Cicerone sappiamo in generale gli 
 Nel 52 Cicerone scrive un'altra opera simile al de Republica che al posto di essere filosofica-politica è solo politica: il _de Legibus_, dove immagina un dialogo fra sè, Quinto e Attico (Quinto e Attico sono #underline[due] persone). 
 
 In questa opera analizza il diritto romano e pontificio (temporale e spirituale) ed spiega che le leggi *non* sono la base della giustizia, ma è la giustizia ad essere alla base delle leggi. Questo è ovvio: la giustizia è una ed unica per tutti i popoli, mentre le leggi cambiano.
-
+== Opere filosofiche
 === Opere filosofiche dal ritiro dalla politica al 45
 
 Durante il suo ritiro dalla vita politica (vd. @Vita_Cicerone) Cicerone riflette sulla filosofia ed abbandona lo scopo pratico che essa deve avere. Da questo punto in poi parleremo di opere filosofiche e meno politiche.
 
-La prima di queste è "_Paradoxa Storicorum_", sono 6 paradossi stoici)
+La prima di queste è "_Paradoxa Storicorum_", sono 6 paradossi stoici dove espone i più difficili paradossi della filosofia stoica in modo facile ai romani. 
 
 Per le prossime dobbiamo aspettare fino al  45 a.C., solo che da quel momento Cicerone scrive moltissime opere filosofiche queste sono, in ordine cronologico
 
-+ _Consolatio_: un'opera che rientra nel genre delle _Consolationes_ su come lenire la sofferenza ed arrivare all'immortalità dell'anima. Fatta per accettare la morte della figlia tullia. Opera che verrà poi ripresa da Seneca.
++ _Consolatio_: *Prima vera opera puramente filosofica di Cicerone* (in quanto _Paradoxa storicorum_ era più una collezione di paradossi che una vera e propria opera filosofica) un'opera che rientra nel genre delle _Consolationes_ su come lenire la sofferenza ed arrivare all'immortalità dell'anima. Fatta per accettare la morte della figlia tullia. Opera che verrà poi ripresa da Seneca.
 + _Hortensius seu de filosofia liber_: è un protettico (esortazione). Cicerone in questa opera esorta Quinto Ortensio Ortalo a trovare consolazione nella filosofia, solo che Cicerone scrive questo a Quinto Ortensio Ortalo ma lo fa per esortare tutti noi a studiare.
 + _Academicorum libri_: In questa opera Cicerone si rifa alla "_Academia_" di Platone e distingue la "_Academica Priora_" da quella "_Posteriora_" e lo tramite il concetto di probabilismo. 
 + _De Finibus Bonorum et Malorum_: Comprende 5 libri e parla del "Sommo bene" e "Sommo male". Analizza questi due concetti secondo varie filosofie e facendo ciò confuta l'epicureismo e lo Stoicismo Antico mentre approva le idea di Antioco di Ascalona. è diviso in 3 dialoghi 

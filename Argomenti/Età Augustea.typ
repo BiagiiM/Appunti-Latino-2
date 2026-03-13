@@ -95,4 +95,44 @@ Mecenate, amico di Augusto, sempre della classe equestre, per diffondere la cult
 Mecenate si circonda di persone di altissimo livello tra cui: Virgilio, Orazio, Livio lo Storico, Cornelio gallio, Properzio e Tibullo. Tutti questi letterati vedevano in Augusto la luce della speranza (Anche se ovviamente continuano ad esserci contraddizioni nel suo governo (come ce n'erano con Enea che ha fondato Roma senza potersi sottrarre alle guerre)).
 
 Mecenate celebra il mito della fondazione di Roma attraverso la creazione di una letteratura nazionale. Vari poeti iniziano a raccontare dell'origini di Roma per avere ricompense: per esempio Ovidio che ottiene la tenuta in Sabina.
+=== Indipendenza dei letterari dal circolo di Mecenate
+Ancora è un tema di dibattito se autori facenti parte del circolo di Mecenate fossero indipendenti o meno, come per esempio Virgilio ed Orazio che in qualche modo erano finanziati da Augusto (infatti Virgilio ottenne terre ed Orazio una tenuta in Sabina da Augusto). 
 
+In effetti il partito di Augusto chiamava in particolare al ceto medio italico, non a Virgilio ed Orazio che erano figli di proprietari terrieri che hanno perso quasi tutto durante le guerre civili. Anche se bisogna ammettere i due erano comunque favorevoli alla politica di pace di Augusto.
+
+Infatti i due rimasero solidi e non piegarono i loro ideali ad Augusto. Ecco infatti alcuni passi dove criticano in qualche modo la politica di Augusto, partendo da Orazio: 
+
+- Nel _Carmen I 37_ Orazio esalta il "_nunc est bibendum_" ovvero "ora è il momento di bere". Che esalta il suicidio di Cleopatra per il suo coraggio ed amore per la libertà
+- Negli _Epodi_ sottolinea l'angoscia davanti ai lutti di guerra ed esalta un periodo di pace (non della falsa pace Augustea).
+
+Pure Virgilio esalta Augusto: 
+- Nelle _Bucoliche_ parla di una _Arcadia Felix_ senza guerre, stessa critica che fa Orazione negli Epodi insomma facendo specialmente riferimento alla terza fase dell'età Augustea col ritorno delle lotte civili
+- Nelle _Georgiche_ ricorda che l'ascesa di Ottaviano ha portato a grandi spargimenti di sangue
+- Nell'Eneide c'è la consapevolezza di un periodo ancora in grande crisi. 
+
+=== Ideale del Classicismo
+L'ideale del classicismo è un concetto che è stato rafforzato dal Circolo di Mecenate. Questo è ha 3 caratteristiche principali
++ Richiamare le grandi opere, per esempio Virgilio nelle _Bucoliche_ richiama Teocrito; nelle _Georgiche_ Esiodo; per l'_Eneide_ Omero; Orazio richiama Alceo e Saffo
++ Riproporre temi di attualità e questioni civili.
++ Seguire la _ars poetica_, ovvero la codificazione teorica nell'_Epistola ai Pisoni_ di Orazio. Questa era il manifesto del mecenatismo ed i suoi punti sono: 
+ - Mescolare l'utile con il _dulce_, quindi scrivere qualcosa di utile ma anche dilettevole
+ - Insegnare ma anche dilettare (praticamente il primo punto)
+ - valorizzare il talento individuale e sottoporlo all'_ars_ (Molto importante!)
+ - Cercare di riprodurre nelle opere il vero e il verosimile 
+ - Fuggire dal fantastico e dall'irrazionale (connesso al quarto punto)
+ - Perseguire il giusto mezzo, e quindi l'ideale del toperepon, co corrisponde all'espressione di Orazione _"Est modus in rebus"_ ovvero ("fare con misura")
+
+ === Intellettuali indipendenti e oppositori
+
+ Nel circolo di Mecenate ci sono anche degli Intellettuali indipendenti che si opponevano al regime augusteo.
+
+ Tra gli indipendenti ricordiamo:
+ - Asinio Pollione, lo "scouter" di Virgilio, il quale ricambiò celebrandolo nella IV Egloga. Fu lui che inventò le "_recitaziones_", ovvero letture pubbliche di testi famosi.
+ - Messalla Corvino che creò un secondo circolo di letterati alternativo a cui parteciparono anche Tibullo e Ovidio.
+
+ Tra gli oppositori ricordiamo:
+ - Labieno, oratore di cui i libri furono bruciati 
+ - Cassio Severo, che ebbe la stesse fine 
+ - Ovidio, che andava contro i _mores antiqui_ e quindi subì la _relegatio_ 
+
+ Gli oppositori accusavano Augusto di aver soppresso la _libertas_ ed aver forzato la pace uccidendo, condannando, esiliando e sottoponendo ad una _Damnatio memoriae_ tutti coloro che osavano opporsi al suo potere. 
