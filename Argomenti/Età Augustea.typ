@@ -120,7 +120,7 @@ L'ideale del classicismo è un concetto che è stato rafforzato dal Circolo di M
  - valorizzare il talento individuale e sottoporlo all'_ars_ (Molto importante!)
  - Cercare di riprodurre nelle opere il vero e il verosimile 
  - Fuggire dal fantastico e dall'irrazionale (connesso al quarto punto)
- - Perseguire il giusto mezzo, e quindi l'ideale del toperepon, co corrisponde all'espressione di Orazione _"Est modus in rebus"_ ovvero ("fare con misura")
+ - Perseguire il giusto mezzo, e quindi l'ideale del _Toperepon_ (il giusto mezzo secondo Cicerone), co corrisponde all'espressione di Orazione _"Est modus in rebus"_ ovvero ("fare con misura")
 
  === Intellettuali indipendenti e oppositori
 
@@ -136,3 +136,5 @@ L'ideale del classicismo è un concetto che è stato rafforzato dal Circolo di M
  - Ovidio, che andava contro i _mores antiqui_ e quindi subì la _relegatio_ 
 
  Gli oppositori accusavano Augusto di aver soppresso la _libertas_ ed aver forzato la pace uccidendo, condannando, esiliando e sottoponendo ad una _Damnatio memoriae_ tutti coloro che osavano opporsi al suo potere. 
+
+#pagebreak()
