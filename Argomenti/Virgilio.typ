@@ -36,6 +36,28 @@ In questa opera si fa varie volte riferimento all'episodio del 41a.C. dove Virgi
 Commento personale #footnote("vediamo una sorta di Ring composition dove la prima ecloga si unisce con la nona, la esconda con la ottava, la terza con la settima e la quarta con la sesta. Molto interessante")
 
 === Gli Idilli di Teocrito 
+==== Vita e stile di Teocrito 
+Virgilio nella sesta Ecloga come abbiamo visto fa riferimento agli Idilli di Teocrito e come poi vedremo ci sono altre somiglianze. Ma chi è Teocrito.
+
+Teocrito, chiamato anche "_il poeta di Siracusa_" da Virgilio stesso è un autore nato fra il IV e III secolo a.C. (quindi età ellenistica). Nasce a Siracusa come prevedibile. Aderisce ai canoni della poesia alessandrina (come Catullo) e difatti le sue caratteristiche sono 
+- Brevitas
+- Levitas (λεπτότης) (trattare temi chill)
+- Labor Limae 
+
+==== Corpus letterario #footnote("ovvero quello che ha scritto") di Teocrito 
+Il corpus di Teocrito è formato da: 
+(se devo essere onesto non so quanto sia importante oltre i 30 idilli ma io metto tutto) 
+
+- 30 Idilli. Il termine idilli o viene da "_εἶδος’ _" ovvero immagine #footnote("vi prego, state al classico da 4 anni, ditemi che già lo sapevete"): quindi l'idillio è un'immagine, un bozzetto, quadretti (piccoli quadri) che descrivono cose. Questi si dividono in:
+
+- Gli idilli dal I al XI (ad eccezione del II) sono di argomento bucolico ed in dialetto dorico. La natura era bella, età dell'oro ed Arcadia; i poeti erano distaccati, erano più poeti vestiti da pastori che si scontravano a suon di versi 
+- 4 epilli (breve componimento epico, Il termine deriva dal diminutivo di epos, ovvero ἐπύλλιον) in dialetto ionico: "_Dioscuri_", "_Eracle bambino_", "_L'epitalmio di Elena_", "_Ila_"
+-	Carmi pederotici, legati all’amore omoerotico, in dialetto eolicono
+- Altre opere minore #footnote("di cui non ci interessa davvero, o magari sì ma a me ora, alle 2:52 di notte, non interessano, tanto 100% la prof non me li chiede.")
+==== Caratterische di Teocrito
+La caratteristica principale di Teocrito è la *varietà*, in greco "_ποικιλία_". Questa varietà si manifesta in tutte le forme, da quella linguistica (vari dialetti), contenutistica (bucolici, mimi, epilli). Inoltre la sa poetica è caratterizzata da una linga ricercata e dotta 
+
+Nel VII idillio, "_Le Talisie_" difende la sua poesia deridendo gli altri dicendo che sono come architetti che vogliono costruire case più alte dei monti, "_Poveri delle Muse_" che pretendono di gareggiare contro il _Cantore di Chio_. Dove gli altri poesti, gli architteti si adattano al metodo Omerico cercando di creare un'opera epica di quella portata senza però averne le capacità 
 
 === Le ecloghe e gli Idilli 
 

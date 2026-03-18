@@ -235,7 +235,7 @@ Opera del 46 a.C. dialogo fra Cicerone, Attico e Bruto.
 
 Chiariscono le differenze fra Atticismo e Asianesimo.
 
-Dividono l'Asianesimo in ... e ...
+Dividono l'Asianesimo in Fluente e Concettuoso
 
 === Orator
 Riprende i temi del De Orator, spiega che il numerus è la prosa ritmica, la musicalità del discorso che favorisce l'ascolto.
