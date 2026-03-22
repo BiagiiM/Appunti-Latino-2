@@ -44,8 +44,8 @@ Teocrito, chiamato anche "_il poeta di Siracusa_" da Virgilio stesso è un autor
 - Levitas (λεπτότης) (trattare temi chill)
 - Labor Limae 
 
-==== Corpus letterario #footnote("ovvero quello che ha scritto") di Teocrito 
-Il corpus di Teocrito è formato da: 
+==== Corpus letterario di Teocrito 
+Il corpus#footnote("ovvero quello che ha scritto") di Teocrito è formato da: 
 (se devo essere onesto non so quanto sia importante oltre i 30 idilli ma io metto tutto) 
 
 - 30 Idilli. Il termine idilli o viene da "_εἶδος’ _" ovvero immagine #footnote("vi prego, state al classico da 4 anni, ditemi che già lo sapevete"): quindi l'idillio è un'immagine, un bozzetto, quadretti (piccoli quadri) che descrivono cose. Questi si dividono in:
@@ -116,5 +116,34 @@ Partiamo con i contenuti dei vari libri:
 + Duello finale fra Enea e Turno. Enea qui lo uccide con rabbia quasi perché Turno stava indossando il balteo di Pallante 
 Attraverso il figlio di Enea, Ascanio e poi Iulio, viene rivendicata la leggitimità della famiglia imperiale. 
 === La leggenda di Enea 
+Il tema principale dell'Eneide, come ci dice il nome, è la leggenda di Enea che è arrivata a Virgilio tramite: 
+- Diodoro Sicuro e Livio lo storico che hanno unito la leggenda greco di un Eroe greco che avrebbe unito la stirpe romana con la tradizione autoctona Romana. Di questo non abbiamo fonti precedenti al I secolo a.C. 
+- Verso 303 dell'Iliade, libro XX, Poseidone dice che dalla stirpe di Enea nascerà la stirpe che governerà il mondo. Chiaramente una interpolazione 
+- Verso 313, di nuovo, si dice che viene scelto Enea perché _Pius_ (in greco _ἐσθλόν_), obbediente, giusto, una sottomissione volontaria alla volontà divina. Vediamo inoltre questo mito anche la causa eziologica del Bellum Poenicum di Nevio, il primo che ha fatto un poema simile (con una causa eziologica)
+
+=== Modelli di riferimento 
+(che figo capitolo 4,4.4)
+- Ilidade ed Odissea (ne abbiamo già parlato). Riprende i temi, il metro, l'armamento epico, il catalogo di navi, la catabasi, e molto altro 
+- La poesia alessandrina: _brevitas_ (48 libri in 12), _levitas_, _labor limae_, gli epilli (c'è pure un epillio fra Enea e Didone), racconto ad incastro, motivo eziologico 
+- Annales di Ennio, in quanto primo poema storico 
+
+=== Temi e personaggi 
+I temi sono:
+- Celebrazione della grandezza di roma attraverso Augusto 
+- Esposizione dell'_Humanitas_ tramite Enea, per fare in modo che ci possiamo immedesimare in lui 
+- Concetto di _pietas_ da _pius_, la sottomissione volontaria, non passiva, a volontà divina 
+I personaggi (più importanti) sono: 
+- Enea, che incarna la _pietas_ ma anche  la _iustitia_, _fides_, _clementia_ e _religio_ e l'_Humanitas_ in quanto soffre per la guerra e prova pieà per i vinti. Importante!!!! Una figura "verticale" proiettata verso il futuro.
+- Didone, figura orizzontale che vive nell'_hinc et nunc_ ora ed adesso, incapace di accettare il destino. 
+- Evandro, figura violenta, re degli Arcadi. Questa figura ha "dato" a Virgilio il nome "_poeta dei vinti_", anche se, se ci pensiamo abbastanza, anche Enea ha dei tratti di un vinto invece che vincitore. 
+- Turno, che infine chiede pietà ad Enea ma viene lo stesso ucciso ad indicare la necessità storica che prevale sul sentimento 
+- Gli Dei, più freddi di quelli omerici perché il ruolo principale lo ha la _"provvidenza"_.
+
+=== Stile di Virgilio 
++ Nelle bucoliche prevale la _tenuitas_, ovvero lo stile umile, quotidiano. 
++ Nelle georgiche prevale la _medietas_, ovvero lo stile medio adatto all'atmosfera rurale.
++ Nelle'Eneide troviamo la _granditas_, stile solenne con una patina arcaizzante, arcaismi, calchi dal greco, lessico epico con vari epiteti
+
+La metrica è sempre l'esametro ma usata con grande flessibilità e controllo
 
  
