@@ -79,12 +79,13 @@ Un'altra orazione importante è quella del 66 dove Cicerone, una volta pretore, 
 Infine prima delle (eh no, dai, questo spoiler no, tanto è il nome della sezione successiva) abbiamo _"De lege Agraria"_, un insieme di 4 orazioni contro una proposta di Rullo (non vi preoccupate, non l'ho ancora mai menzionato mi sembra), contro la polarizzazione della ricchezza (something something forbice sociale, insomma era ricco ed a lui piaceva diventare più ricco... mi dicono dalla regia che è quello che sta succedendo attualmente in tutti i paesi occidentali)   
 
 === Catilinarie
-Le Catilinarie sono l'opera che ha singolarmente salvato Roma dalla congiura di Catilina. Questa opera è formata da 4 orazioni, la prima e la quarta orazione vengono pronunciate davanti al senato, mentre la seconda e la terza dinnanzi al popolo.
+Le Catilinarie sono l'opera che ha singolarmente salvato Roma dalla congiura di Catilina nel 63 a.C. Questa opera è formata da 4 orazioni, la prima e la quarta orazione vengono pronunciate davanti al senato, mentre la seconda e la terza dinnanzi al popolo.
 
 Ma adesso voi probabilmente (non) vi state chiedendo: "Ma questo Cicero/Ciceronis come faceva a sapere di questa congiura?", la risposta è che Fulvia, un'amica di Terenzia (sua moglie), era l'amante di Quinto Curio Rufo, uno dei congiurati (che al mercato mio padre comprò).
 
 Ho fatto un'anticipazione assurda ma in realtà "chest'è", l'unica cosa in più da dire è che la prima delle 4 orazioni si chiama _"in Catilinam"_ (uanm che fantasia).
 
+In queste orazioni Cicerone inventa anche una figura retorica: la "_Prosopopea_", ovvero la personificazione in una donna della Repubblica. 
 === Orazioni post Reditum
 
 Queste sono le orazioni che Cicerone fa dopo essere tornato a roma nel 57 a.C. (vd. @Vita_Cicerone).
