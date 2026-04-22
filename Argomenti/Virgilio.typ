@@ -89,6 +89,8 @@ Il mito inizio con Aristeo, un allevatore di api che ha visto però i suoi alvea
 
 Questo mito si unisce con quello di Orfeo ed Euridice, ovvero dei due innamorati dove Orfeo che dopo la catabasi non è riuscito a condurre Euridice fuori dall'Ade perché non è riuscito a non girarsi. Perdendo così Euridice per sempre. Da quel momento Orfeo è obbligato a vagare nella terra dei Ciconi rifiutando l'amore delle altre donne; Le Menadi, offese dal loro rifiuto, lo fanno a pezzi. La sua testa continuando a cantare galleggia fino a Lesbo diventando la terra della lirica monodiaca.
 
+=== Le fonti 
+Tipo Esiodo, però ora non ho voglia di scriverle, cercatevele lol
 == L'Eneide
 === Struttura dell'Eneide 
 L'Eneide è un poema diviso in 2 esadi 
@@ -146,4 +148,6 @@ I personaggi (più importanti) sono:
 
 La metrica è sempre l'esametro ma usata con grande flessibilità e controllo
 
+
+#pagebreak()
  
