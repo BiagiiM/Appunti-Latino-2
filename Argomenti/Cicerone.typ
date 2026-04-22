@@ -1,4 +1,3 @@
-#set heading(numbering: "1,1.1-a",)
 = Cicerone
 
 Preparatevi perché questo tizio ha fatto di tutto
@@ -77,6 +76,8 @@ Vediamo adesso altre 4 orazioni, le prime due "_Pro Fonteio_", e _"Pro Caecina"_
 Un'altra orazione importante è quella del 66 dove Cicerone, una volta pretore, difende la proposta di Manilo di dare a Pompeo tutto il controllo del Ponto (che simp). Questa orazione si chiama _*Pro lege Manila*_
 
 Infine prima delle (eh no, dai, questo spoiler no, tanto è il nome della sezione successiva) abbiamo _"De lege Agraria"_, un insieme di 4 orazioni contro una proposta di Rullo (non vi preoccupate, non l'ho ancora mai menzionato mi sembra), contro la polarizzazione della ricchezza (something something forbice sociale, insomma era ricco ed a lui piaceva diventare più ricco... mi dicono dalla regia che è quello che sta succedendo attualmente in tutti i paesi occidentali)   
+
+Esiste anche l'orazione "_Pro Archia_" che se devo essere onesto non ricordo dove si trovi cronologicamente ma parla di Cicerone che difende questo poeta Archia. Importante perché è la prima volta che cita "_l'arricchimento progressivo_" tema che poi riprenderà nel _De Officiis_. Inoltre ha difeso questo Archia per essere menzionato nei suoi testi, cosa che non succederà ma come potete immaginare Cicerone non ne ha poi avuto bisogno.
 
 === Catilinarie
 Le Catilinarie sono l'opera che ha singolarmente salvato Roma dalla congiura di Catilina nel 63 a.C. Questa opera è formata da 4 orazioni, la prima e la quarta orazione vengono pronunciate davanti al senato, mentre la seconda e la terza dinnanzi al popolo.
